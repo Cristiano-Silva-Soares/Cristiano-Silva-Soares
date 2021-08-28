@@ -2,15 +2,14 @@
 - 💻 I'm a Developer Java Fullstack Jr.
 - 🔭 I’m currently working on improving my hard skills in programming...
 - 🌱 I’m currently learning JAVA language!
-- 📫 How to reach me: CriztianoSoares99@outlook.com - https://www.linkedin.com/in/cristiano-da-silva-soares-495a3a217/
 - 😄 Pronouns: {ELE/HE/DELE/HIM}.
 - ⚡ Fun fact: I believe in aliens...°-°
 ##
 
 <div>
   <a href="https://github.com/Cristiano-Silva-Soares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristiano-Silva-Soares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano-Silva-Soares&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristiano-Silva-Soares&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano-Silva-Soares&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
