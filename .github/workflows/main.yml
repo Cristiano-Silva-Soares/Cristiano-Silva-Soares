@@ -3,7 +3,7 @@
 name: CI
 
 # Controls when the workflow will run
-name: Generate Datas
+name: Generate Animations
 
 on:
   schedule: # execute every 12 hours
