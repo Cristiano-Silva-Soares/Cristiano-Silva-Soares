@@ -1,5 +1,5 @@
   🤖WELCOME TO MY PROFILE🤖
-- 💻 I'm a Fullstack Junior Developer.
+- 💻 I'm a trainee at FPF Tech.
 - 🔭 I’m currently working on improving my hard skills in programming...
 - 📧 E-mail: {CriztianoSoares99@outlook.com}.
 - 🌱 I’m currently learning PYTHON language!
