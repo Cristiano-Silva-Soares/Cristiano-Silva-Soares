@@ -1,8 +1,6 @@
   🤖WELCOME TO MY PROFILE🤖
-- 💻 I'm a System Analyst at FPF Tech.
-- 🔭 I’m currently working on improving my hard skills in programming...
+- 💻 I'm a Software Developer at FPF Tech.
 - 📧 E-mail: {CriztianoSoares99@outlook.com}.
-- 🌱 I’m currently learning PYTHON language!
 - 😄 Pronouns: {ELE/HE/DELE/HIM}.
 - ⚡ Fun fact: I believe in aliens...°-°
 ##
