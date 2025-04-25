@@ -1,5 +1,5 @@
   🤖WELCOME TO MY PROFILE🤖
-- 💻 I'm a Software Developer at FPF Tech.
+- 💻 I'm a Software Developer.
 - 📧 E-mail: {CriztianoSoares99@outlook.com}.
 - 😄 Pronouns: {ELE/HE/DELE/HIM}.
 - ⚡ Fun fact: I believe in aliens...°-°
