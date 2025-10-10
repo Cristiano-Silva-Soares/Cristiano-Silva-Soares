@@ -1,7 +1,7 @@
   🤖WELCOME TO MY PROFILE🤖
-- 💻 I'm a Software Developer.
-- 📧 E-mail: {CriztianoSoares99@outlook.com}.
-- 😄 Pronouns: {ELE/HE/DELE/HIM}.
+- 💻 I'm a Software Developer
+- 📧 E-mail: {cristiano.soares777@outlook.com}
+- 😄 Pronouns: {ELE/HE/DELE/HIM}
 - ⚡ Fun fact: I believe in aliens...°-°
 ##
 
